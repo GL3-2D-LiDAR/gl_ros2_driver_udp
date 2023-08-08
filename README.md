@@ -4,7 +4,7 @@
 - Installation
 ```
 $ cd ${ROS2 workspace}/src
-$ git clone --recurse-submodules https://github.com/soslab-project/gl_ros2_driver_udp.git
+$ git clone --recurse-submodules https://github.com/GL3-2D-LiDAR/gl_ros2_driver_udp.git
 $ cd $(ROS2 workspace)
 $ colcon build --symlink-install
 ```
